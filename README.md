@@ -1,5 +1,5 @@
 # Time Display — Django Project
-A beginner Django project that displays the current date and time on a styled web page.
+A Django project that displays the current date and time on a styled web page.
 ---
 
 ## Objectives
